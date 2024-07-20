@@ -1,4 +1,4 @@
-# Welcome to My Coding Solutions Repository! 🚀
+# Welcome to My LeetCode Solutions Repository! 🚀
 
 ## About
 
